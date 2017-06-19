@@ -1,5 +1,5 @@
 # For Atom Feed
-# domain: nuclearpengy.github.io
+domain: nuclearpengy.github.io
 author: Nathan Jeffery
 
 # locations
@@ -14,15 +14,24 @@ markdown_ext:         "markdown,mkdown,mkdn,mkd,md"
 strict_front_matter: false
 
 
+parentsite: https://services.github.com
+permalink: pretty
 
 defaults:
   - scope:
       path: "" # an empty string here means all files in the project
-      type: "posts, pages"
+      type: "pages"
     values:
       layout: "default"
       author: "Nathan Jeffery"
       permalink: pretty
+      
+  - scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Nathan Jeffery"
 
 - scope:
       path: "assets/img"
