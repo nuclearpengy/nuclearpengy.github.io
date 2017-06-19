@@ -14,6 +14,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 strict_front_matter: false
 
 parentsite: https://nuclearpengy.github.io
+baseurl: https://nuclearpengy.github.io
 permalink: pretty
 timezone: Africa/Nairobi
 
