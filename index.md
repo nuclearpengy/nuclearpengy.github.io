@@ -1,6 +1,7 @@
 ---
 layout: default
 title: nuclearpengy - Nathan Jeffery
+description: Technology strategist, business enthusiast, coffee aficionado and remote worker. I invest in and consult for technology startups on product development and infrastructure. I'm focused on results.
 ---
 
 <h1>nuclearpengy</h1>
