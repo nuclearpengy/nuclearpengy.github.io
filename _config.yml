@@ -1,5 +1,5 @@
 # For Atom Feed
-domain: nuclearpengy.github.io
+domain: nuclearpengy.com
 author: Nathan Jeffery
 
 # locations
@@ -13,8 +13,8 @@ encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 strict_front_matter: false
 
-parentsite: https://nuclearpengy.github.io
-baseurl: https://nuclearpengy.github.io
+parentsite: https://nuclearpengy.com
+baseurl: https://nuclearpengy.com
 permalink: pretty
 timezone: Africa/Nairobi
 
