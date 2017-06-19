@@ -27,7 +27,7 @@ defaults:
       author: "Nathan Jeffery"
       permalink: pretty
       
-  - scope:
+    scope:
       path: "" # an empty string here means all files in the project
       type: "posts"
     values:
