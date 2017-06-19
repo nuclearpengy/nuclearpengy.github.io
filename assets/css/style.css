@@ -1,1 +1,57 @@
+	body {
+		font-family: -apple-system, Helvetica, Verdana, Geneva, sans-serif;
+		padding:0;
+		margin:0;
+	}
+	
+	/* Custom, iPhone Retina */ 
+	@media only screen and (min-width : 320px) {
+		.wrap {
+			margin:auto;
+			width:300px;
+		}
+		h1 {
+			font-size:1.5em;
+		}
 
+	}
+
+	/* Extra Small Devices, Phones */ 
+	@media only screen and (min-width : 480px) {
+		.wrap {
+			margin:auto;
+			width:460px;
+		}
+
+	}
+
+	/* Small Devices, Tablets */
+	@media only screen and (min-width : 768px) {
+		.wrap {
+			margin:auto;
+			width:500px;
+		}
+
+	}
+
+	/* Medium Devices, Desktops */
+	@media only screen and (min-width : 992px) {
+		.wrap {
+			margin:auto;
+			width:550px;
+		}
+	}
+
+	/* Large Devices, Wide Screens */
+	@media only screen and (min-width : 1200px) {
+		.wrap {
+			margin:auto;
+			width:880px;
+		}
+
+	}
+
+    .footer {
+    	width:100%;
+		font-size:0.8em;
+    }
