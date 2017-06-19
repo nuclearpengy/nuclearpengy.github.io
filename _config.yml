@@ -18,6 +18,9 @@ baseurl: https://nuclearpengy.github.io
 permalink: pretty
 timezone: Africa/Nairobi
 
+gems:
+  - jekyll-sitemap
+
 defaults:
   - scope:
       path: "" # an empty string here means all files in the project
