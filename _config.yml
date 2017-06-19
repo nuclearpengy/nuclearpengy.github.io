@@ -1,1 +1,25 @@
+# For Atom Feed
+domain: nuclearpengy.github.io
+author: Nathan Jeffery
 
+# locations
+layouts_dir:  _layouts
+data_dir:     _data
+includes_dir: _includes
+
+# Handling Reading
+safe:                 false
+encoding:             "utf-8"
+markdown_ext:         "markdown,mkdown,mkdn,mkd,md"
+strict_front_matter: false
+
+
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts, pages"
+    values:
+      layout: "default"
+      author: "Nathan Jeffery"
