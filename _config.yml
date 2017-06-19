@@ -16,6 +16,7 @@ strict_front_matter: false
 
 parentsite: https://services.github.com
 permalink: pretty
+timezone: Africa/Nairobi
 
 defaults:
   - scope:
