@@ -1,18 +1,17 @@
 # For Atom Feed
-# domain: nuclearpengy.github.io
-# author: Nathan Jeffery
+domain: nuclearpengy.github.io
+author: Nathan Jeffery
 
 # locations
-layouts_dir:  _layouts
-data_dir:     _data
+layouts_dir: _layouts
+data_dir: _data
 includes_dir: _includes
 
 # Handling Reading
-safe:                 false
-encoding:             "utf-8"
-markdown_ext:         "markdown,mkdown,mkdn,mkd,md"
+safe: false
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 strict_front_matter: false
-
 
 parentsite: https://nuclearpengy.github.io
 permalink: pretty
