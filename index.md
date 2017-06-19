@@ -8,7 +8,7 @@ title: nuclearpengy - Nathan Jeffery
 <p>I'm a results driven, technology strategist and business enthusiast.</p>
 <p>I have a broad range of work experience including <a href="https://nathanjeffery.co/2014/10/12/ten-years-on-the-web/" target="_blank">10 years in technology and digital</a>, 10 years in hospitality and entertainment, 2 years in retail and 2 years in private adult education.</p>
 <p>I enjoy streamlining non-tech businesses using technology and I've had the privilege to work on systems in FinTech, EdTech and GovTech.</p>
-<p>I <a href="https://nuclearpengy.com/blog.html">blog</a> at <a href="https://nathanjeffery.co">nathanjeffery.co</a> and sometimes publish content on <a href="https://blackplunger.com/author/nathan">blackplunger.com</a>.</p>
+<p>I <a href="{{site.baseurl}}/blog/">blog</a> at <a href="https://nathanjeffery.co">nathanjeffery.co</a> and sometimes publish content on <a href="https://blackplunger.com/author/nathan">blackplunger.com</a>.</p>
 <p>I'm irrationally optimistic.</p>
-<p>The easiest way to reach me is on <a href="https://twitter.com/nuclearpengy" target="_blank">Twitter</a>; feel free to DM me. You can also find me at numerous other places <a href="https://nuclearpengy.com/links.html">online</a>.</p>
+<p>The easiest way to reach me is on <a href="https://twitter.com/nuclearpengy" target="_blank">Twitter</a>; feel free to DM me. You can also find me at numerous other places <a href="{{site.baseurl}}/links.html">online</a>.</p>
 <p>I'm generally quite busy but I enjoy a good cup of coffee, a glass of wine or a whisky so if you're ever in George, let me know and maybe we can meet up.</p>
