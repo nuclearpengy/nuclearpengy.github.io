@@ -1,6 +1,6 @@
 # For Atom Feed
-domain: nuclearpengy.github.io
-author: Nathan Jeffery
+# domain: nuclearpengy.github.io
+# author: Nathan Jeffery
 
 # locations
 layouts_dir:  _layouts
