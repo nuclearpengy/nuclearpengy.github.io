@@ -15,6 +15,7 @@ strict_front_matter: false
 
 parentsite: https://nuclearpengy.com
 baseurl: https://nuclearpengy.com
+url: https://nuclearpengy.com
 permalink: pretty
 timezone: Africa/Nairobi
 
