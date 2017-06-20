@@ -21,6 +21,7 @@ timezone: Africa/Nairobi
 
 gems:
   - jekyll-sitemap
+  - jekyll-feed
 
 defaults:
   - scope:
