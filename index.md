@@ -5,7 +5,7 @@ description: Technology strategist, business enthusiast, coffee aficionado and r
 ---
 
 <h1>nuclearpengy</h1>
-<p>Hi, I'm Nathan Jeffery, founder and CEO of <a href="https://myecommerce.codes" target="_blank">MyEcommerce</a> and director and CPO of <a href="https://hlalani.co.za" target="_blank">Hlalani IQ</a>.</p>
+<p>Hi, I'm Nathan Jeffery, founder and CEO of <a href="https://brownjeffery.ventures" target="_blank">Brown Jeffery Ventures</a> and <a href="https://myecommerce.codes" target="_blank">MyEcommerce</a> and director and CPO of <a href="https://hlalani.co.za" target="_blank">Hlalani IQ</a>.</p>
 <p>I'm a results driven, technology strategist and business enthusiast.</p>
 <p>I have a broad range of work experience including <a href="https://nathanjeffery.co/2014/10/12/ten-years-on-the-web/" target="_blank">10 years in technology and digital</a>, 10 years in hospitality and entertainment, 2 years in retail and 2 years in private adult education.</p>
 <p>I enjoy streamlining non-tech businesses using technology and I've had the privilege to work on systems in FinTech, EdTech and GovTech.</p>
