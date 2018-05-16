@@ -5,7 +5,7 @@ description: Every day I'm hustling
 ---
 <h1><a href="{{site.url}}">nuclearpengy</a> - working</h1>
 
-### Founder and CEO, [Brown Jeffery Ventures](https://brown.jeffery.ventures), February 2015 - Present
+### Founder and CEO, [Brown Jeffery Ventures](https://brownjeffery.ventures), February 2015 - Present
 
 I invest in early stage businesses and provide management consulting and mentoring to startups and corporates with a keen focus on product development, systems integration and social media.
 
@@ -13,7 +13,7 @@ I invest in early stage businesses and provide management consulting and mentori
 
 Working with funders and founders to build sustainable businesses.
 
-### Founder and CEO, [MyEcommerce](http://myecommerce.co.za/), 2008 - Present
+### Founder and CEO, [MyEcommerce](http://myecommerce.codes), 2008 - Present
 
 MyEcommerce is a turn key software solutions company specialising in Product Management. We help businesses turn their ideas into digital reality.
 
@@ -47,10 +47,10 @@ I assist in the planning and facilitation of innovation driven events, focused o
 
 I used to run the software development workshops at our electronics club, known as the [G3ECS](http://g3ecs.co.za) and engage with other non-profits, in order to identify potential strategic alignments.
 
-### Product Manager, [Debt Wise Solutions](http://debtwisesolutions.co.za/), November 2008 - January 2012
+### Product Manager, Debt Wise Solutions, November 2008 - January 2012
 MyEcommerce co-owned Debt Wise Solutions(Pty) Ltd which we successfully exited in May 2011.
 
-The Debt Wise Solutions program is a debt counselling and payment processing engine designed to operate under the national credit act in South Africa. The system was subject to annual forensic audits.
+The Debt Wise Solutions program is a debt counselling and payment processing engine designed to operate under the National Credit Act in South Africa. The system was subject to annual forensic audits.
 
 I was responsible for managing all elements of production and the day to day development life cycle. I oversaw the support systems (telephone and email) for clients and internal users; I also did site visits to larger clients, providing support and onsite training.
 
@@ -123,11 +123,11 @@ Sales and customer assistance in all technical matters.
 Opening accounts and credit vetting clients.
 Opening and closing the store and doing cash ups.
 
-### Wait, Upstairs at Harry's, September 2003 - November 2003
+### Waiter, Upstairs at Harry's, September 2003 - November 2003
 
 Sales and servicing customers and assistance with stock taking.
 
-### Wait and then head waiter, Caffe Rossini, June 2003 - August 2003
+### Waiter and then head waiter, Caffe Rossini, June 2003 - August 2003
 
 Sales and servicing customers, supervising other waitrons and dealing with cashups etc. and closing the shop.
 
