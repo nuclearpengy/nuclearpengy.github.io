@@ -15,7 +15,7 @@ Working with funders and founders to build sustainable businesses.
 
 ### Founder and CEO, [MyEcommerce](http://myecommerce.codes), 2008 - Present
 
-MyEcommerce is a turn key software solutions company specialising in Product Management. We help businesses turn their ideas into digital reality.
+MyEcommerce is a turn key software solutions company specialising in technical execution. We help businesses turn their ideas into digital reality.
 
 We also provide support services for freelancers and development firms who may not have access to the required infrastructure, nor want to be involved in the management and delivery of post production support.
 
