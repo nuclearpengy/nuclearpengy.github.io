@@ -1,7 +1,7 @@
 ---
 layout: default
 title: nuclearpengy - work experience
-description: Every day I'm hustling
+description: Every day I'm hustling.
 ---
 <h1><a href="{{site.url}}">nuclearpengy</a> - working</h1>
 
@@ -15,17 +15,15 @@ Working with funders and founders to build sustainable businesses.
 
 ### Founder and CEO, [MyEcommerce](http://myecommerce.codes), 2008 - Present
 
-MyEcommerce is a turn key software solutions company specialising in technical execution. We help businesses turn their ideas into digital reality.
+MyEcommerce is a niche software solutions company specialising in technical execution.
 
-We also provide support services for freelancers and development firms who may not have access to the required infrastructure, nor want to be involved in the management and delivery of post production support.
+We partner with businesses, big and small, to architect, build and maintain bespoke solutions to solve unique and challenging problems and have experience working on systems in the FinTech, EdTech and GovTech spaces. We turn ideas into digital reality.
 
-We work with clients in cities around South Africa including; George, Cape Town, Stellenbosch, Knysna, Johannesburg, Durban and Nelson Mandela Bay. Internationally we service clients in Atlanta, London and Belgium.
+We are privileged to work with clients in cities around South Africa including; George, Cape Town, Stellenbosch, Knysna, Johannesburg, Durban and Nelson Mandela Bay. Internationally, we service clients in Atlanta, Belgium, London, Switzerland, Tanzania, Kenya, Nigeria, Senegal, Zimbabwe and Myanmar.
 
-In my role as CEO I’m responsible for driving strategy, the management of company finances as well as recruitment and training of staff.
+In my role as CEO, I'm responsible for driving strategy, the management of company finances as well as recruitment and training of staff but I also happily dig into code when I get the chance.
 
-I am involved in project management and various strategic planning elements both internally and for our clients.
-
-I often play the role of devil's advocate, when it comes to User Interface design and process flow, during planning and ask the difficult questions that usually include: if, but or maybe.
+I primarily help our clients with project management, strategic planning, system, user interface and process architecture and often play the role of devil's advocate, asking the difficult questions that usually include if, but or maybe.
 
 ### Chief Product Officer, [Hlalani IQ](https://hlalani.co.za), August 2012 - Present
 
