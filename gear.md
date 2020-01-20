@@ -65,7 +65,7 @@ I use this for the odd Windows application I might want to run and as a file ser
 <h3>Mobile</h3>
 <h4>Apple iPhone 7 Plus 256GB Jet Black</h4>
 This is my primary phone, the one people can phone me on. The only third party application I have installed on it is the Kindle app.<br/>
-<h4>Apple Watch Series 3 42mm Space Grey Aluminium Case with Black Sport Band<h4>
+<h4>Apple Watch Series 3 42mm Space Grey Aluminium Case with Black Sport Band</h4>
 I almost never take it off. I make use of Siri a lot, especially to operate timers while I'm cooking, and am really looking forward to when the cellular model is available in South Africa.<br/>
 <h4>Apple iPhone 6S Plus 128GB Space Grey</h4>
 This is my secondary device and as such, I don't mind if the battery dies when I'm not at home so I have more, a lot more, third party applications installed on it: Slack, Google Hangouts, Gmail, Skype, Evernote, Twitter, Instagram, iA Writer, Kindle Pocket, Feedly, Google Maps, FNB, SnapScan, Google Calender, Google Meet, Google Chat, Prompt, Netflix and Showmax. When this device is eventually decommissioned, I'll probably install fewer apps on the device that replaces it. My goal is ultimately to have as few as possible apps installed on my mobile devices.<br/>
@@ -87,6 +87,7 @@ Main office WiFi, and backup drive - Apple AirPort Time Capsule<br/>
 Secondary office WiFi - Apple AirPort Express<br/>
 
 <h3>Air Conditioning</h3>
+
 A Midea 12,000 BTU mid wall split unit inverter keeps me and my equipment cool.<br/>
 
 <h2>Software, Subscriptions and The Cloud</h2>
