@@ -14,15 +14,17 @@ I work from home so I get to spend unusually long periods "at work". It also hel
 
 <h2>Hardware</h2>
 
-<h3>Workstation - Apple iMac 27" Mid 2011</h3>
-**CPU:** 2.7 GHz Intel Core i5<br/>
-**RAM:** 16GB 1333 MHz DDR3<br/>
-**GPU:** AMD Radeon HD 6770M 512MB<br/>
-**Operating System Volume:** Western Digital Ultrastar DC HA210 1TB 3.5" HDD<br/>
-**Input Devices:** Apple Magic Mouse, Apple Magic Trackpad and Apple Magic Keyboard<br/>
-**OS:** macOS High Sierra<br/>
+<h3>Workstation - Apple iMac Pro 2017</h3>
+**CPU:** 3.2 GHz 8-Core Intel Xeon W<br/>
+**RAM:** 64GB 2666 MHz DDR4<br/>
+**GPU:** AMD Radeon Pro Vega 56 8GB<br/>
+**Operating System Volume:** 2TB SSD<br/>
+**Input Devices:** Apple Magic Mouse 2, Apple Magic Trackpad 2 and Apple Magic Keyboard with Numeric Keypad<br/>
+**OS:** macOS Catalina<br/>
 
-This is my primary workstation and my portal into the other systems I rely on. It's on 24/7. I try not to install or use too many local applications and keep my system as clean as possible. This has been a great machine and I've really put it through its paces.
+This is my primary workstation and my portal into the other systems I rely on. It's on 24/7. I try not to install or use too many local applications and keep my system as clean as possible. It's a beast of a machine but Google Chrome still manages to almost max out the memory. Go figure.
+
+Before this, I had an Apple iMac 27" Mid 2011 which I really put through its paces and enjoyed using.
 
 <h3>Laptop - Apple MacBook Air 13" Mid 2013</h3>
 **CPU:** 1.3 GHz Intel Core i5<br/>
@@ -101,7 +103,7 @@ I primarily use Safari and Google Chrome to browse the web but still have Opera,
 
 From a messaging perspective, I primarily use iMessage for personal messaging, Google Hangouts for internal business conversations and Skype and Slack for engaging with clients and external teams.
 
-I currently use Evernote for notes, G Suite Business for cloud productivity and Dropbox and iCloud for cloud synhronisation,
+I currently use Evernote for notes, G Suite Business for cloud productivity and Dropbox and iCloud for cloud synhronisation.
 
 On the business front, I use Harvest for time tracking and Sage One Accounting and Sage One Payroll for their respective functions.
 
@@ -111,4 +113,4 @@ I read books in the Kindle application on my iPhone, follow blogs with Feedly an
 
 From a hosting and infrastructure perspective, I primarily leverage Digital Ocean Droplets, Amazon AWS SES, Cloudflare, Xneelo, Mailgun and Ghost (Pro). This particular site however is hosted on GitHub Pages.
 
-_Last updated: Friday, 17-01-2020_
+_Last updated: Friday, 31-01-2020_
