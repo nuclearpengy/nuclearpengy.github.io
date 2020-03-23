@@ -14,7 +14,7 @@ I work from home so I get to spend unusually long periods "at work". It also hel
 
 <h2>Hardware</h2>
 
-<h3>Workstation - Apple iMac Pro 2017</h3>
+<h3><a name="workstation">Workstation - Apple iMac Pro 2017</a></h3>
 **CPU:** 3.2 GHz 8-Core Intel Xeon W<br/>
 **RAM:** 64GB 2666 MHz DDR4<br/>
 **GPU:** AMD Radeon Pro Vega 56 8GB<br/>
@@ -92,6 +92,9 @@ Secondary office WiFi - Apple AirPort Express<br/>
 
 A Midea 12,000 BTU mid wall split unit inverter keeps me and my equipment cool.<br/>
 
+<h3>Load shedding mitigation</h3>
+All this gear needs to be powered. My office and network is shielded from load shedding with two PylonTech US2000 2.4kWh Lithium Ion batteries and a Mecer Axpert King SOL-I-AX-5KP 5KW hybrid pure sine wave inverter, enough power to keep working and boil the kettle to make coffee. No solar panels yet but hopefully soon.<br/>
+
 <h2>Software, Subscriptions and The Cloud</h2>
 Sadly, all this hardware can't do much without a lot of software and a good few cloud services.
 
@@ -113,4 +116,4 @@ I read books in the Kindle application on my iPhone, follow blogs with Feedly an
 
 From a hosting and infrastructure perspective, I primarily leverage Digital Ocean Droplets, Amazon AWS SES, Cloudflare, Xneelo, Mailgun and Ghost (Pro). This particular site however is hosted on GitHub Pages.
 
-_Last updated: Friday, 31-01-2020_
+_Last updated: Friday, 23-03-2020_
