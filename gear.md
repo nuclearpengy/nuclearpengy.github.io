@@ -81,12 +81,12 @@ _I've previously owned Behringer HPX4000, Stanton DJ Pro 3000, Aerial7 Tanks and
 I have a Black GetOne Highback from Ergotherapy to keep me comfortable and productive.<br/>
 
 <h3>Connectivity and Networking</h3>
-Primary connection - 40Mbps down / 10Mbps up VDSL<br/>
+Primary connection - 1Gbps down / 1Gbps up Fibre<br/>
 Secondary connection - 20Mbps down / 20Mbps up wireless link<br/>
 DNS caching and custom routing - Ubiquiti EdgeRouter Pro<br/>
 Core wired network - D-Link DGS-1024D 24-Port Gigbit Switch<br/>
 Main office WiFi, and backup drive - Apple AirPort Time Capsule<br/>
-Secondary office WiFi - Apple AirPort Express<br/>
+Secondary office WiFi - Apple AirPort Time Capsule<br/>
 
 <h3>Air Conditioning</h3>
 
@@ -116,4 +116,4 @@ I read books in the Kindle application on my iPhone, follow blogs with Feedly an
 
 From a hosting and infrastructure perspective, I primarily leverage Digital Ocean Droplets, Amazon AWS SES, Cloudflare, Xneelo, Mailgun and Ghost (Pro). This particular site however is hosted on GitHub Pages.
 
-_Last updated: Friday, 23-03-2020_
+_Last updated: Friday, 02-09-2020_
