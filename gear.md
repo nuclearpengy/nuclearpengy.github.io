@@ -35,7 +35,7 @@ Before this, I had an Apple iMac 27" Mid 2011 which I really put through its pac
 
 I primarily use this device for research, writing and processing email. I don't use it as much as I should, or would like to, but when I do, I enjoy it.
 
-Before this, I had an Apple MacBook Pro 15" Early 2011. If I end up replacing this, it'll probably be with a bigger screened beefier device, like the new Apple MacBook Pro 16".
+Before this, I had an Apple MacBook Pro 15" Early 2011. If I end up replacing this, it'll probably be with a bigger screened beefier device.
 
 <h3>Development Server - Custom Built</h3>
 **Case:** Phanteks Eclipse P400S<br/>
@@ -65,17 +65,17 @@ I access this machine remotely via HTTPS, SSH and network file share and primari
 I use this for the odd Windows application I might want to run and as a file server, and administer it remotely via Microsoft Remote Desktop.
 
 <h3>Mobile</h3>
-<h4>Apple iPhone 7 Plus 256GB Jet Black</h4>
+<h4>Apple iPhone 12 Pro Max 512GB Graphite</h4>
 This is my primary phone, the one people can phone me on. The only third party application I have installed on it is the Kindle app.<br/>
-<h4>Apple Watch Series 3 42mm Space Grey Aluminium Case with Black Sport Band</h4>
-I almost never take it off. I make use of Siri a lot, especially to operate timers while I'm cooking, and am really looking forward to when the cellular model is available in South Africa.<br/>
-<h4>Apple iPhone 6S Plus 128GB Space Grey</h4>
-This is my secondary device and as such, I don't mind if the battery dies when I'm not at home so I have more, a lot more, third party applications installed on it: Slack, Google Hangouts, Gmail, Skype, Evernote, Twitter, Instagram, iA Writer, Kindle Pocket, Feedly, Google Maps, FNB, SnapScan, Google Calender, Google Meet, Google Chat, Prompt, Netflix and Showmax. When this device is eventually decommissioned, I'll probably install fewer apps on the device that replaces it. My goal is ultimately to have as few as possible apps installed on my mobile devices.<br/>
+<h4>Apple Watch Series 6 44mm Graphite Stainless Steel Case with Black Sport Band</h4>
+I almost never take it off. I make use of Siri a lot, especially to operate timers while I'm cooking.<br/>
+<h4>Apple iPhone 7 Plus 256GB Jet Black</h4>
+This is my secondary device and as such, I don't mind if the battery dies when I'm not at home so I have more, a lot more, third party applications installed on it: Slack, Google Hangouts, Gmail, Skype, Evernote, Twitter, Instagram, iA Writer, Kindle, Pocket, Feedly, Google Maps, FNB, SnapScan, Google Calender, Google Meet, Google Chat, Prompt, Discord, Blinkist, Netflix and Showmax. When this device is eventually decommissioned, I'll probably install fewer apps on the device that replaces it. My goal is ultimately to have as few as possible apps installed on my mobile devices.<br/>
 
 <h3>Headphones</h3>
-I currently alternative between Apple AirPods and Bose QuietComfort35 II. The AirPods feel like magic and the QC35s are pretty incredible too. I used to be strongly against wireless headphones but after trying them, the thought of plugging in headphones feels a bit outdated.
+I currently alternative between Apple AirPods Pro and Bose QuietComfort35 II. The AirPods Pro feel like magic and the QC35s are pretty incredible too. I used to be strongly against wireless headphones but after trying them, the thought of plugging in headphones feels a bit outdated.
 
-_I've previously owned Behringer HPX4000, Stanton DJ Pro 3000, Aerial7 Tanks and a couple pairs of Skullcandy wired earbuds._<br/>
+_I've previously owned Behringer HPX4000, Stanton DJ Pro 3000, Aerial7 Tanks, Apple AirPods and a couple pairs of Skullcandy wired earbuds._<br/>
 
 <h3>Chair</h3>
 I have a Black GetOne Highback from Ergotherapy to keep me comfortable and productive.<br/>
@@ -116,4 +116,4 @@ I read books in the Kindle application on my iPhone, follow blogs with Feedly an
 
 From a hosting and infrastructure perspective, I primarily leverage Digital Ocean Droplets, Amazon AWS SES, Cloudflare, Xneelo, Mailgun and Ghost (Pro). This particular site however is hosted on GitHub Pages.
 
-_Last updated: Friday, 02-09-2020_
+_Last updated: Friday, 16-08-2021_
