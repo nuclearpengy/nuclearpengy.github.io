@@ -50,7 +50,7 @@ Before this, I had an Apple MacBook Pro 15" Early 2011. If I end up replacing th
 **Operating System Volume:** Kingston A400 2.5" 480GB SSD<br/>
 **Data Processing Volume:** Kingston A400 2.5" 240GB SSD<br/>
 **Storage Volume:** Western Digital Gold Enterprise 3.5" 2TB HDD<br/>
-**OS:** Ubuntu 18.04 LTS<br/>
+**OS:** Ubuntu 20.04 LTS<br/>
 
 I access this machine remotely via HTTPS, SSH and network file share and primarily use it for development and data processing. It's running Let's Encrypt, Apache, MariaDB, PHP, Jupyter Notebooks, Samba, Anaconda, Git and more.
 
