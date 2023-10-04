@@ -2,6 +2,7 @@
 layout: default
 title: nuclearpengy - now
 description: What I'm focusing on at the moment.
+date: 2023-10-04
 ---
 
 <h1><a href="{{site.url}}">nuclearpengy</a> - now</h1>
