@@ -40,6 +40,6 @@ I need to get back into daily journalling at some point.
 
 I am quite interested in writing a book about my experience running my own business but haven't become fully inspired yet and I would like to get back into blogging at some point. <!-- but for now, journaling consistently is where it is at. -->
 
-_Last updated: {{ page.date | date: "%A, %d-%m-%Y" }}_
+_Last updated: {{ page.date | date: "%A, %d-%m-%Y" }}._
 
 _Inspired by Derek Siver’s [now](https://sivers.org/now) page suggestion and the [Now Now Now](https://nownownow.com/) movement._
