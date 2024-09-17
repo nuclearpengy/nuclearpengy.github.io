@@ -13,37 +13,67 @@ I invest in early stage businesses and provide management consulting and mentori
 
 Working with funders and founders to build sustainable businesses.
 
-### Founder and CEO, [MyEcommerce](http://myecommerce.codes), 2008 - Present
+### Founder and CEO, [MyEcommerce](https://myecommerce.codes), 2008 - Present
 
-MyEcommerce is a niche software solutions company specialising in technical execution.
+MyEcommerce is a niche software solutions company specialising in product management and technical execution.
 
 We partner with businesses, big and small, to architect, build and maintain bespoke solutions to solve unique and challenging problems and have experience working on systems in the FinTech, EdTech and GovTech spaces. We turn ideas into digital reality.
 
-We are privileged to work with clients in cities around South Africa including; George, Cape Town, Stellenbosch, Knysna, Johannesburg, Durban and Nelson Mandela Bay. Internationally, we service clients in Atlanta, Belgium, London, Switzerland, Tanzania, Kenya, Nigeria, Senegal, Zimbabwe and Myanmar.
+We are privileged to work with clients in cities around South Africa including; George, Cape Town, Stellenbosch, Knysna, Johannesburg, Durban and Nelson Mandela Bay. Internationally, we service clients in Atlanta, Belgium, London, Switzerland, Tanzania, Kenya, Nigeria.
 
 In my role as CEO, I'm responsible for driving strategy, the management of company finances as well as recruitment and training of staff but I also happily dig into code when I get the chance.
 
 I primarily help our clients with project management, strategic planning, system, user interface and process architecture and often play the role of devil's advocate, asking the difficult questions that usually include if, but or maybe.
 
-### Chief Product Officer, [Hlalani IQ](https://hlalani.co.za), August 2012 - Present
+### Product and Engineering Manager, [Ringier](https://www.ringier.com), 2016 - Present
 
-Hlalani IQ is a software as a service company that started out with a special focus on construction project management and supporting emerging contractors.
+Ringier AG is an international media group based in Switzerland.
 
-As with all things digital we've evolved and now provide a broader set of product offerings.
+#### Product Manager (Sports Media - Core), Ringier South Africa, July 2024 - Present
 
-Our tools enable contractors, engineers and property developers to efficiently run projects, reduce risk and report on progress in realtime.
+I lead the Sports Media team building and maintaining scalable backend and web solutions for our partner brands operating in Bulgaria, Greece, Portugal, Netherlands, Romania, Serbia, Slovakia and Hungary.
 
-We also provide a set of contextual research tools, for surveys, site audits and cost analysis.
+#### Product Manager (Jobs - Core), Ringier South Africa, January 2021 - June 2024
 
-I'm responsible for driving product strategy and dreaming about the future and our role in it.
+I led the Jobs Marketplaces team, responsible for building and maintainting job marketplaces operated by our partner companies in Kenya, Uganda, Ghana, Nigera, Myanmar and Romania.
 
-### Co-Founder and Board Member, [Garden Route ICT Incubator](http://grincubator.co.za/), November 2011 - Present
+#### Product Manager (Jobs - South East Asia), Ringier South Africa, July 2019 - December 2020
+
+I oversaw ongoing development and maintenance of the in-house jobs marketplace platform, working closely with both the in-country team and a remote development team located in India, Armenia, Uzbekistan, and Russia.
+
+#### Product Manager (Sports Media - AL/ML Solutions), Ringier AG, June 2024 - Present
+
+Designing and implementing artificial intelligence and machine learning solutions leveraging Palantir Foundry and AIP, as well as custom built solutions.
+
+#### Engineering Manager (Special Projects), Ringier AG, May 2020 - Present
+
+I work on a range of projects, both public-facing and internal, including high-profile websites and internal-use plugins.
+
+#### Engineering Manager (Content, Blogs and Distribution), Ringier One Africa Media, June 2016 - March 2021
+
+I led a team of developers, building and maintaining WordPress websites, blogs and plugins, supported multiple platform migrations, and was responsible for the architecture and vision for the core blog ecosystem.
+
+In this role, I worked closely with group marketing based out of Berlin, designers based in Kenya and South Africa, the product management and infrastructure teams based in South Africa and Mauritius, and marketing and content teams based in Nigeria, Ghana, Kenya, Uganda, Tanzania and Senegal.
+
+### Co-Founder and Board Member, Garden Route ICT Incubator, November 2011 - Present
 
 I am part of the committee involved in the planning and establishment of the incubator which culminated in the foundation and registration of the incubator in January 2013. We focus on promoting ICT in the region and co-ordinating technology related events.
 
 I assist in the planning and facilitation of innovation driven events, focused on prototyping concepts and getting minimum viable products developed instead of spending a lot of money on typical consultants and research, striving to deliver crowd sourced viable solutions.
 
 I used to run the software development workshops at our electronics club, known as the [G3ECS](http://g3ecs.co.za) and engage with other non-profits, in order to identify potential strategic alignments.
+
+### Chief Product Officer, [Hlalani IQ](https://hlalani.co.za), August 2012 - October 2017
+
+Hlalani IQ is a software as a service company that started out with a special focus on construction project management and supporting emerging contractors.
+
+As with all things digital, it evolved and now provides a broader set of product offerings.
+
+The tooling enables contractors, engineers and property developers to efficiently run projects, reduce risk and report on progress in realtime.
+
+It also provides a set of contextual research tools, for surveys, site audits and cost analysis.
+
+I was responsible for driving product strategy and dreaming about the future and our role in it.
 
 ### Product Manager, Debt Wise Solutions, November 2008 - January 2012
 MyEcommerce co-owned Debt Wise Solutions(Pty) Ltd which we successfully exited in May 2011.

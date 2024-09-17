@@ -2,7 +2,7 @@
 layout: default
 title: nuclearpengy - now
 description: What I'm focusing on at the moment.
-date: 2023-10-04
+date: 2024-09-17
 ---
 
 <h1><a href="{{site.url}}">nuclearpengy</a> - now</h1>
@@ -10,7 +10,7 @@ date: 2023-10-04
 I tend to always be busy. This is a rough summary of what I'm busy with at the moment.
 
 ## Work
-I'm currently Product Manager for Jobs Marketplaces for [Ringier South Africa](https://www.ringier.co.za/). I also run my own business, MyEcommerce, focused on custom software consulting and development.
+I'm currently Product Manager for Sports Media for [Ringier South Africa](https://www.ringier.co.za/). I also run my own business, MyEcommerce, focused on custom software consulting and development.
 
 ## Open source
 I used to maintain the [Ghost](https://ghost.org/) [WordPress Exporter](https://wordpress.org/plugins/ghost/). It was a lot of fun to contribute towards and I learned quite a bit through the process. Sadly, I have not been as active as I would like in the last while.
@@ -31,6 +31,9 @@ I cook a lot, sometimes for hours at a time. One day, I might open a restaurant 
 At the moment, stir fry is a regular feature on our menu, with red, green and yellow pepper, button mushrooms, garlic and bok choy, seasoned with sesame oil, soya sauce, black pepper and salt, with slow roasted chicken thighs or maybe seared wagyu beef steak.
 
 I'm also putting our nutribullet to good use making smoothies with apples, oats, honey, chia, sunflower and pumpkin seeds, with almond milk.
+
+## Coffee
+I enjoy coffee, brewing it, drinking it and learning about it. I try to do at least one cupping per month, usually on a Saturday, but sometimes I'll sneak in a cupping before work, if I have enough time.
 
 ## Writing
 I don't get to do much writing these days besides email, instant messages on Slack and Google Hangouts, and project specification documents.

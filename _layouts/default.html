@@ -52,7 +52,9 @@
     "description": "{{ page.description }}"
 }
 </script>
-    <link rel="stylesheet" type="text/css" href="/assets/css/style.css">
+    {% assign timestamp = Time.now %}
+    {% assign timestamp_formatted = timestamp | date: "%Y%m%d%H%M%S" %}
+    <link rel="stylesheet" type="text/css" href="/assets/css/style.css?v={{ timestamp_formatted }}">
   </head>
   <body>
   <section class="wrap">
