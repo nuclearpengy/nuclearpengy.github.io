@@ -5,6 +5,7 @@
     <title>{{ page.title }}</title>
     {% assign timestamp_formatted = site.time | date: "%Y%m%d%H%M%S" %}
     <link rel="stylesheet" type="text/css" href="/assets/css/style.css?v={{ timestamp_formatted }}">
+	<link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
 	
 	{% include json-ld.html %}
   </head>
