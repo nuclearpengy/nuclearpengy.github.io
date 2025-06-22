@@ -120,7 +120,7 @@
   "isPartOf": {
     "@type": "WebSite",
     "name": {{ site.title | default: site.person_schema.name | jsonify }},
-    "url": "{{ '/' | absolute_url | jsonify }}"
+    "url": {{ '/' | absolute_url | jsonify }}
   }
 }
 {% endif %}
