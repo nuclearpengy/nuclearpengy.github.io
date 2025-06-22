@@ -1,7 +1,7 @@
 ---
 layout: default
-title: nuclearpengy - work experience
-description: Every day I'm hustling.
+title: working | nuclearpengy (Nathan Jeffery)
+description: Every day I'm hustling. Explore my 28 year career, from delivering newspapers to founding companies.
 ---
 <h1><a href="{{site.url}}">nuclearpengy</a> - working</h1>
 

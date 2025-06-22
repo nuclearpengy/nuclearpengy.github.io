@@ -3,9 +3,10 @@
 <html>
   <head>
     <title>{{ page.title }}</title>
-    {% assign timestamp = Time.now %}
-    {% assign timestamp_formatted = timestamp | date: "%Y%m%d%H%M%S" %}
+    {% assign timestamp_formatted = site.time | date: "%Y%m%d%H%M%S" %}
     <link rel="stylesheet" type="text/css" href="/assets/css/style.css?v={{ timestamp_formatted }}">
+	
+	{% include json-ld.html %}
   </head>
   <body>
   <section class="wrap">

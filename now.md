@@ -1,7 +1,7 @@
 ---
 layout: default
-title: nuclearpengy - now
-description: What I'm focusing on at the moment.
+title: now | nuclearpengy (Nathan Jeffery)
+description: What I'm focusing on at the moment. Work, open source, health and fitness, learning, cooking, coffee and writing.
 date: 2025-06-02
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: nuclearpengy - recommendations received
-description: What other people have to say.
+title: recommendations received | nuclearpengy (Nathan Jeffery)
+description: What other people have to say about me.
 ---
 
 <h1><a href="{{site.url}}">nuclearpengy</a> - recommendations received</h1>

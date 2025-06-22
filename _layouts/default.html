@@ -27,36 +27,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="shortcut icon" type="image/x-icon" href="{{site.url}}/favicon.ico" />
 {% feed_meta %}
-<script type="application/ld+json">
-{
-    "@context": "https://schema.org",
-    "@type": "Person",
-    "sameAs": [
-        "https://nathanjeffery.com",
-		"https://nathanjeffery.co",
-		"https://blackplunger.com/author/nathan",
-        "https://www.facebook.com/nuclearpengy",
-        "https://x.com/nuclearpengy",
-		"https://www.linkedin.com/in/nuclearpengy/",
-		"https://www.instagram.com/nuclearpengy/"
-    ],
-    "name": "Nathan Jeffery",
-    "url": "https://nuclearpengy.com/",
-    "image": {
-        "@type": "ImageObject",
-        "url": "{{site.url}}/assets/img/nathan_drinking_coffee.jpg",
-        "width": 960,
-        "height": 1280
-    },
-    "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "{{site.url}}"
-    },
-    "description": "{{ page.description }}"
-}
-</script>
-    {% assign timestamp = Time.now %}
-    {% assign timestamp_formatted = timestamp | date: "%Y%m%d%H%M%S" %}
+
+{% include json-ld.html %}
+
+    {% assign timestamp_formatted = site.time | date: "%Y%m%d%H%M%S" %}
     <link rel="stylesheet" type="text/css" href="/assets/css/style.css?v={{ timestamp_formatted }}">
   </head>
   <body>

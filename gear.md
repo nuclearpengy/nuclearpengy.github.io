@@ -1,6 +1,6 @@
 ---
 layout: default
-title: nuclearpengy - gear
+title: gear | nuclearpengy (Nathan Jeffery)
 description: The tools I use to be productive (and for fun).
 ---
 
@@ -20,7 +20,7 @@ I work from home so I get to spend unusually long periods "at work". It also hel
 **GPU:** AMD Radeon Pro Vega 56 8GB<br/>
 **Operating System Volume:** 2TB SSD<br/>
 **Input Devices:** Apple Magic Mouse 2, Apple Magic Trackpad 2 and Apple Magic Keyboard with Numeric Keypad<br/>
-**OS:** macOS Catalina<br/>
+**OS:** macOS Sonoma<br/>
 
 This is my primary workstation and my portal into the other systems I rely on. It's on 24/7. I try not to install or use too many local applications and keep my system as clean as possible. It's a beast of a machine but Google Chrome still manages to almost max out the memory. Go figure.
 
@@ -35,7 +35,7 @@ Before this, I had an Apple iMac 27" Mid 2011 which I really put through its pac
 
 I primarily use this device for research, writing and processing email. I don't use it as much as I should, or would like to, but when I do, I enjoy it.
 
-Before this, I had an Apple MacBook Pro 15" Early 2011. If I end up replacing this, it'll probably be with a bigger screened beefier device.
+Before this, I had an Apple MacBook Pro 15" Early 2011. If I end up replacing the MacBook Air, it will be with a bigger screened beefier device.
 
 <h3>Development Server - Custom Built</h3>
 **Case:** Phanteks Eclipse P400S<br/>
@@ -52,7 +52,7 @@ Before this, I had an Apple MacBook Pro 15" Early 2011. If I end up replacing th
 **Storage Volume:** Western Digital Gold Enterprise 3.5" 2TB HDD<br/>
 **OS:** Ubuntu 20.04 LTS<br/>
 
-I access this machine remotely via HTTPS, SSH and network file share and primarily use it for development and data processing. It's running Let's Encrypt, Apache, MariaDB, PHP, Jupyter Notebooks, Samba, Anaconda, Git and more.
+I access this machine remotely via HTTPS, SSH and network file share and primarily use it for development and data processing. It's running Let's Encrypt, Apache, MariaDB, PHP, Samba, Git and more.
 
 <h3>Windows Server - HP ProLiant Microserver</h3>
 **CPU:** 1.50 GHz AMD Turion II Neo N40L<br/>
@@ -65,12 +65,12 @@ I access this machine remotely via HTTPS, SSH and network file share and primari
 I use this for the odd Windows application I might want to run and as a file server, and administer it remotely via Microsoft Remote Desktop.
 
 <h3>Mobile</h3>
-<h4>Apple iPhone 12 Pro Max 512GB Graphite</h4>
+<h4>Apple iPhone 16 Pro Max 1TB Black</h4>
 This is my primary phone, the one people can phone me on. The only third party application I have installed on it is the Kindle app.<br/>
-<h4>Apple Watch Series 6 44mm Graphite Stainless Steel Case with Black Sport Band</h4>
+<h4>Apple Watch Series 10 46mm Slate Titanium Case with Black Sport Band</h4>
 I almost never take it off. I make use of Siri a lot, especially to operate timers while I'm cooking.<br/>
-<h4>Apple iPhone 7 Plus 256GB Jet Black</h4>
-This is my secondary device and as such, I don't mind if the battery dies when I'm not at home so I have more, a lot more, third party applications installed on it: Slack, Google Hangouts, Gmail, Skype, Evernote, Twitter, Instagram, iA Writer, Kindle, Pocket, Feedly, Google Maps, FNB, SnapScan, Google Calender, Google Meet, Google Chat, Prompt, Discord, Blinkist, Netflix and Showmax. When this device is eventually decommissioned, I'll probably install fewer apps on the device that replaces it. My goal is ultimately to have as few as possible apps installed on my mobile devices.<br/>
+<h4>Apple iPhone 16 Pro Max 1TB Desert</h4>
+This is my secondary device and as such, I don't mind if the battery dies when I'm not at home so I have more, a lot more, third party applications installed on it: Slack, Google Hangouts, Gmail, Evernote, X (Twitter), Instagram, iA Writer, Kindle, Instapaper, Feedly, Google Maps, SnapScan, Google Calender, Google Meet, Google Chat, Prompt, Discord, Netflix, Showmax along with banking and insurance apps.<br/>
 
 <h3>Headphones</h3>
 I currently alternative between Apple AirPods Pro and Bose QuietComfort35 II. The AirPods Pro feel like magic and the QC35s are pretty incredible too. I used to be strongly against wireless headphones but after trying them, the thought of plugging in headphones feels a bit outdated.
@@ -86,7 +86,7 @@ Secondary connection - 20Mbps down / 20Mbps up wireless link<br/>
 DNS caching and custom routing - Ubiquiti EdgeRouter Pro<br/>
 Core wired network - D-Link DGS-1024D 24-Port Gigbit Switch<br/>
 Main office WiFi, and backup drive - Apple AirPort Time Capsule<br/>
-Secondary office WiFi - Apple AirPort Time Capsule<br/>
+Secondary office WiFi, and backup drive - Apple AirPort Time Capsule<br/>
 
 <h3>Air Conditioning</h3>
 
@@ -100,20 +100,20 @@ Sadly, all this hardware can't do much without a lot of software and a good few 
 
 On the design front, I have Sketch and Pixelmator and I use OmniGraffle Pro for workflows.
 
-I turn to iA Writer for Markdown and alternate between TextMate and Atom for editing code. And, yes, I have tried Visual Studio Code but don't use it much. Kaleidoscope serves me well for running diffs on a variety of file formats and I've come to rely on Postman for interacting with APIs during development and heavily depend on Bitbucket and GitHub for source version control and project management. And, to my shock and horror, I've come to use Jira almost daily.
+I turn to iA Writer for Markdown and alternate between TextMate and Atom for editing code. Kaleidoscope serves me well for running diffs on a variety of file formats and I've come to rely on Postman for interacting with APIs during development and heavily depend on Bitbucket and GitHub for source version control and project management. And, to my shock and horror, I've come to use Jira almost daily.
 
-I primarily use Safari and Google Chrome to browse the web but still have Opera, Firefox and Internet Explorer at the ready for testing.
+I primarily use Safari and Google Chrome to browse the web but still have Opera and Firefox at the ready for testing.
 
 From a messaging perspective, I primarily use iMessage for personal messaging, Google Hangouts for internal business conversations and Skype and Slack for engaging with clients and external teams.
 
-I currently use Evernote for notes, G Suite Business for cloud productivity and Dropbox and iCloud for cloud synhronisation.
+I currently use Evernote for notes, Google Workspace Business for cloud productivity and Dropbox and iCloud for cloud synhronisation.
 
 On the business front, I use Harvest for time tracking and Sage One Accounting and Sage One Payroll for their respective functions.
 
 For entertainment, I subscribe to Apple Music, Showmax and Netflix.
 
-I read books in the Kindle application on my iPhone, follow blogs with Feedly and save articles with Pocket.
+I read books in the Kindle application on my iPhone, follow blogs with Feedly and save articles with Instapaper.
 
 From a hosting and infrastructure perspective, I primarily leverage Digital Ocean Droplets, Amazon AWS SES, Cloudflare, Xneelo, Mailgun and Ghost (Pro). This particular site however is hosted on GitHub Pages.
 
-_Last updated: Friday, 16-08-2021_
+_Last updated: Friday, 05-06-2025_
