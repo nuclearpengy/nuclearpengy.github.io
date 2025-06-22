@@ -82,7 +82,7 @@
   "author": {
     "@type": "Person",
     "name": {{ site.person_schema.name | jsonify }},
-    "url": "{{ '/' | absolute_url | jsonify }}"
+    "url": {{ '/' | absolute_url | jsonify }}
   },
   "publisher": {
     "@type": "Organization",
@@ -107,7 +107,7 @@
   "author": {
     "@type": "Person",
     "name": {{ site.person_schema.name | jsonify }},
-    "url": "{{ '/' | absolute_url | jsonify }}"
+    "url": {{ '/' | absolute_url | jsonify }}
   },
   "publisher": {
     "@type": "Organization",
