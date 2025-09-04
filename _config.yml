@@ -32,14 +32,12 @@ defaults:
       layout: "default"
       author: "Nathan Jeffery"
       permalink: pretty
-      
   - scope:
       path: "" # an empty string here means all files in the project
       type: "posts"
     values:
       layout: "post"
       author: "Nathan Jeffery"
-
   - scope:
       path: "assets/img"
     values:
