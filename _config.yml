@@ -20,7 +20,7 @@ url: https://nuclearpengy.com
 permalink: pretty
 timezone: Africa/Nairobi
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-feed
 
@@ -32,12 +32,14 @@ defaults:
       layout: "default"
       author: "Nathan Jeffery"
       permalink: pretty
+
   - scope:
       path: "" # an empty string here means all files in the project
       type: "posts"
     values:
       layout: "post"
       author: "Nathan Jeffery"
+
   - scope:
       path: "assets/img"
     values:
