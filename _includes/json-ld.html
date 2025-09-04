@@ -5,6 +5,7 @@
   "@type": "ProfilePage",
   "mainEntity": {
     "@type": "Person",
+    "@id": "{{ site.url }}/#person",
     "name": {{ site.person_schema.name | jsonify }},
     "alternateName": {{ site.person_schema.alternateName | jsonify }},
     "jobTitle": {{ site.person_schema.jobTitle | jsonify }},
@@ -21,9 +22,11 @@
     {
       "@type": "Article",
       "headline": {{ article.title | jsonify }},
+	  "name": {{ article.title | jsonify }},
       "url": {{ article.url | jsonify }},
       "author": {
         "@type": "Person",
+        "@id": "{{ site.url }}/#person",
         "name": {{ site.person_schema.name | jsonify }}
       }
     }{% unless forloop.last %},{% endunless %}
@@ -46,8 +49,14 @@
         "position": {{ forloop.index }},
         "item": {
           "@type": "Article",
+          "headline": {{ article.title | jsonify }},
           "name": {{ article.title | jsonify }},
           "url": {{ article.url | jsonify }}
+          "author": {
+            "@type": "Person",
+            "@id": "{{ site.url }}/#person",
+            "name": {{ site.person_schema.name | jsonify }}
+          },
         }
       }{% unless forloop.last %},{% endunless %}
       {% endfor %}
@@ -55,6 +64,7 @@
   },
   "author": {
     "@type": "Person",
+    "@id": "{{ site.url }}/#person",
     "name": {{ site.person_schema.name | jsonify }}
   },
   "publisher": {
