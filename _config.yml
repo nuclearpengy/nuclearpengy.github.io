@@ -62,6 +62,7 @@ person_schema:
     - "https://za.pinterest.com/nuclearpengy/"
     - "https://www.reddit.com/user/nuclearpengy/"
     - "https://soundcloud.com/nuclearpengy"
+	- "https://github.com/nuclearpengy/"
   articles:
     - title: "Avoid cheap work"
       url: "https://nathanjeffery.co/2016/02/03/avoid-cheap-work/"
