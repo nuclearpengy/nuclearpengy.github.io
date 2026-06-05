@@ -68,6 +68,7 @@ person_schema:
     - "https://goodreads.com/nuclearpengy"
     - "https://medium.com/@nuclearpengy"
     - "https://www.quora.com/profile/Nathan-Jeffery"
+    - "https://techcentral.co.za/category/opinion/nathanjeffery/"
   articles:
     - title: "Avoid cheap work"
       url: "https://nathanjeffery.co/2016/02/03/avoid-cheap-work/"
@@ -85,6 +86,8 @@ person_schema:
       url: "https://nathanjeffery.co/2016/01/20/micro-failure/"
     - title: "Vodacom and MTN are trying to regulate (break) the Internet"
       url: "https://blackplunger.com/2016/01/14/vodacom-and-mtn-are-trying-to-regulate-break-the-internet/"
+    - title: "Vodacom, MTN want to break the Internet"
+      url: "https://techcentral.co.za/vodacom-mtn-want-to-break-the-internet/194197/"
     - title: "Chan Zuckerberg Initiative"
       url: "https://nathanjeffery.co/2015/12/05/chan-zuckerberg-initiative/"
     - title: "Dear Apple - Sketch is leaving the App Store"
