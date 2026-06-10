@@ -8,7 +8,7 @@ description: Technology strategist, business enthusiast, coffee aficionado and r
 <p>Hi, I'm Nathan Jeffery (aka nuclearpengy - short for nuclear penguin). This is my home, if you can have such a thing, on the web.</p>
 <p>I'm a results driven, technology strategist, full stack software debugger, and machine learning and business enthusiast. This may sound glamorous, to some, but in reality, I spend most of my day in conference calls, reading and replying to instant messages and email, and doing research or fixing bugs in software.</p>
 <p>I have a broad range of <a href="{{site.baseurl}}/working/">work experience</a> including 20 years in technology and digital, 10 years in hospitality and entertainment, 2 years in retail and 2 years in private adult education.</p>
-<p>I enjoy streamlining businesses, using technology, and I've had the privilege to work on systems in FinTech, EdTech, GovTech, Marketplaces and Sports Media.</p>
+<p>I enjoy streamlining businesses, using technology, and I've had the privilege to work on systems in FinTech, EdTech, GovTech, Marketplaces and Media.</p>
 <p>I blog at <a href="https://nathanjeffery.co">nathanjeffery.co</a> and sometimes publish content on <a href="https://blackplunger.com/author/nathan">blackplunger.com</a> but spend a lot more time <a href="{{site.baseurl}}/reading/">reading</a> than I do <a href="{{site.baseurl}}/writing/">writing</a>.</p>
 <p>I'm irrationally optimistic.</p>
 <p>The easiest way to reach me is on <a href="https://x.com/nuclearpengy">X (Twitter)</a>; feel free to DM me. You can also find me at numerous other places <a href="{{site.baseurl}}/links/">online</a>.</p>

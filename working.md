@@ -1,7 +1,7 @@
 ---
 layout: default
 title: working | nuclearpengy (Nathan Jeffery)
-description: Every day I'm hustling. Explore my 28 year career, from delivering newspapers to founding companies.
+description: Every day I'm hustling. Explore my 29 year career, from delivering newspapers to founding companies.
 ---
 <h1><a href="{{site.url}}">nuclearpengy</a> - working</h1>
 
@@ -41,9 +41,9 @@ I led the Jobs Marketplaces team, responsible for building and maintainting job 
 
 I oversaw ongoing development and maintenance of the in-house jobs marketplace platform, working closely with both the in-country team and a remote development team located in India, Armenia, Uzbekistan, and Russia.
 
-#### Product Manager (Sports Media - AL/ML Solutions), Ringier AG, June 2024 - Present
+#### Product Manager (Sports Media - AL/ML Solutions), Ringier AG, June 2024 - January 2026
 
-Designing and implementing artificial intelligence and machine learning solutions leveraging Palantir Foundry and AIP, as well as custom built solutions.
+Provided product management support on artificial intelligence and machine learning solutions leveraging Palantir Foundry and AIP, as well as custom built solutions.
 
 #### Engineering Manager (Special Projects), Ringier AG, May 2020 - Present
 

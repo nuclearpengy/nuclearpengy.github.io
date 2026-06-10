@@ -70,10 +70,10 @@ This is my primary phone, the one people can phone me on. The only third party a
 <h4>Apple Watch Series 10 46mm Slate Titanium Case with Black Sport Band</h4>
 I almost never take it off. I make use of Siri a lot, especially to operate timers while I'm cooking.<br/>
 <h4>Apple iPhone 16 Pro Max 1TB Desert</h4>
-This is my secondary device and as such, I don't mind if the battery dies when I'm not at home so I have more, a lot more, third party applications installed on it: Slack, Google Hangouts, Gmail, Evernote, X (Twitter), Instagram, iA Writer, Kindle, Instapaper, Feedly, Google Maps, SnapScan, Google Calender, Google Meet, Google Chat, Prompt, Discord, Netflix, Showmax along with banking and insurance apps.<br/>
+This is my secondary device and as such, I don't mind if the battery dies when I'm not at home so I have more, a lot more, third party applications installed on it: Slack, Google Hangouts, Gmail, Evernote, X (Twitter), Instagram, Reddit, iA Writer, Kindle, Instapaper, Feedly, Google Maps, SnapScan, Google Calender, Google Meet, Google Chat, Prompt, Discord, Netflix along with banking and insurance apps.<br/>
 
 <h3>Headphones</h3>
-I currently alternative between Apple AirPods Pro and Bose QuietComfort35 II. The AirPods Pro feel like magic and the QC35s are pretty incredible too. I used to be strongly against wireless headphones but after trying them, the thought of plugging in headphones feels a bit outdated.
+I currently alternate between Apple AirPods Pro 2 and Bose QuietComfort35 II. The AirPods Pro 2 feel like magic and the QC35s are pretty incredible too. I used to be strongly against wireless headphones but after trying them, the thought of plugging in headphones feels a bit outdated.
 
 _I've previously owned Behringer HPX4000, Stanton DJ Pro 3000, Aerial7 Tanks, Apple AirPods and a couple pairs of Skullcandy wired earbuds._<br/>
 
@@ -100,7 +100,7 @@ Sadly, all this hardware can't do much without a lot of software and a good few 
 
 On the design front, I have Sketch and Pixelmator and I use OmniGraffle Pro for workflows.
 
-I turn to iA Writer for Markdown and alternate between TextMate and Atom for editing code. Kaleidoscope serves me well for running diffs on a variety of file formats and I've come to rely on Postman for interacting with APIs during development and heavily depend on Bitbucket and GitHub for source version control and project management. And, to my shock and horror, I've come to use Jira almost daily.
+I turn to iA Writer for Markdown and TextMate for editing code (when Claude Code isn't doing it) Kaleidoscope serves me well for running diffs on a variety of file formats and I've come to rely on Postman for interacting with APIs during development and heavily depend on Bitbucket and GitHub for source version control and project management. And, to my shock and horror, I've come to use Jira almost daily.
 
 I primarily use Safari and Google Chrome to browse the web but still have Opera and Firefox at the ready for testing.
 
@@ -110,10 +110,10 @@ I currently use Evernote for notes, Google Workspace Business for cloud producti
 
 On the business front, I use Harvest for time tracking and Sage One Accounting and Sage One Payroll for their respective functions.
 
-For entertainment, I subscribe to Apple Music, Showmax and Netflix.
+For entertainment, I subscribe to Apple Music, Apple TV, YouTube Premium and Netflix.
 
 I read books in the Kindle application on my iPhone, follow blogs with Feedly and save articles with Instapaper.
 
 From a hosting and infrastructure perspective, I primarily leverage Digital Ocean Droplets, Amazon AWS SES, Cloudflare, Xneelo, Mailgun and Ghost (Pro). This particular site however is hosted on GitHub Pages.
 
-_Last updated: Friday, 05-06-2025_
+_Last updated: Friday, 10-06-2026_

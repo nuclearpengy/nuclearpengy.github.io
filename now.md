@@ -2,7 +2,7 @@
 layout: default
 title: now | nuclearpengy (Nathan Jeffery)
 description: What I'm focusing on at the moment. Work, open source, health and fitness, learning, cooking, coffee and writing.
-date: 2025-06-02
+date: 2026-06-10
 ---
 
 <h1><a href="{{site.url}}">nuclearpengy</a> - now</h1>
@@ -23,7 +23,9 @@ I try to eat well and avoid ultra processed foods but I'm not currently winning 
 When I do get time, I enjoy walking and going for a ride on my Airdrop Fade Works dirt jump bike.
 
 ## Learning
-I'm constantly learning; I need to, in order to be able to add value and contribute to my clients' businesses. Much of this learning is driven by the need to solve specific challenges. Outside the scope of task related problem solving, my current focus and interests are Machine Learning and Python. I'm also learning more about OKRs and product management in general.
+I'm constantly learning; I need to, in order to be able to add value and contribute to my clients' businesses. Much of this learning is driven by the need to solve specific challenges. Outside the scope of task related problem solving, my current focus and interests are Machine Learning and Agentic Development. I'm also learning more about OKRs, product management and technical SEO.
+
+Some of my recent projects include: [QR Code Generator](https://qr.nathanjeffery.net/) (privacy-first, ad-free QR codes generated in your browser), [Emoji Search](https://emoji.nathanjeffery.net/) (a fast, no-tracking way to find and copy emoji), [KGMID Converter](https://kgmid-converter.nathanjeffery.net/) (decodes Google Knowledge Graph Machine IDs into their protobuf-encoded Google Search Profile URLs) and [Facet](https://facet.nathanjeffery.net/) (a Knowledge Graph lookup tool for search strategists and brand managers).
 
 ## Cooking
 I cook a lot and it's usually quite a time consuming process. One day, I might open a restaurant but for now I cook for myself and for my family.
