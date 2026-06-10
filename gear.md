@@ -100,7 +100,7 @@ Sadly, all this hardware can't do much without a lot of software and a good few 
 
 On the design front, I have Sketch and Pixelmator and I use OmniGraffle Pro for workflows.
 
-I turn to iA Writer for Markdown and TextMate for editing code (when Claude Code isn't doing it) Kaleidoscope serves me well for running diffs on a variety of file formats and I've come to rely on Postman for interacting with APIs during development and heavily depend on Bitbucket and GitHub for source version control and project management. And, to my shock and horror, I've come to use Jira almost daily.
+I turn to iA Writer for Markdown and TextMate for editing code (when Claude Code isn't doing it). Kaleidoscope serves me well for running diffs on a variety of file formats and I've come to rely on Postman for interacting with APIs during development and heavily depend on Bitbucket and GitHub for source version control and project management. And, to my shock and horror, I've come to use Jira almost daily.
 
 I primarily use Safari and Google Chrome to browse the web but still have Opera and Firefox at the ready for testing.
 
@@ -116,4 +116,4 @@ I read books in the Kindle application on my iPhone, follow blogs with Feedly an
 
 From a hosting and infrastructure perspective, I primarily leverage Digital Ocean Droplets, Amazon AWS SES, Cloudflare, Xneelo, Mailgun and Ghost (Pro). This particular site however is hosted on GitHub Pages.
 
-_Last updated: Friday, 10-06-2026_
+_Last updated: Wednesday, 10-06-2026_
